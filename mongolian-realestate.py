@@ -1,7 +1,6 @@
 """
 Монгол Үл Хөдлөх Хөрөнгийн Үнэ Тооцоолуур
 Streamlit аппликейшн - шууд ажиллуулахад бэлэн
-
 Суулгах: pip install streamlit plotly
 Ажиллуулах: streamlit run mongolian_realestate.py
 """
